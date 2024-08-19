@@ -11,7 +11,7 @@ print(ticket)
 
 for i in range(len(ticket) + 5):
     if not ticket:
-        print("No Ticket Availabe now")
+        print("Ticket is not availabe now")
         break
     else:
         ticket.popleft()
