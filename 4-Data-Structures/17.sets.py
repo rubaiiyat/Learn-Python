@@ -9,3 +9,7 @@ print(set1 & set2)
 print(set1 - set2)
 print(set2 - set1)
 print(set1 ^ set2)
+
+comprehence = {x**3 for x in set1}
+
+print(comprehence)
