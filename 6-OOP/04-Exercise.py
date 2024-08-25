@@ -13,3 +13,6 @@ t1.Calculate_Area()
 
 t2 = Triangle(20, 30)
 t2.Calculate_Area()
+
+t3=Triangle(30,40)
+t3.Calculate_Area()
