@@ -3,7 +3,7 @@ class Animal:
         self,
         name,
         food,
-    ) -> None:
+    ):
         self.name = name
         self.food = food
 
