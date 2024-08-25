@@ -12,7 +12,6 @@ abir.cls = "CSE17"
 abir.gpa = "3.00"
 print(f"(Name: {abir.name}, Roll: {abir.roll}, Class: {abir.cls}, GPA: {abir.gpa})")
 
-
 Rubaiyat = Student()
 Rubaiyat.name = "Rubaiyat"
 Rubaiyat.roll = 44
