@@ -23,3 +23,7 @@ abir.displayValue()
 Rubaiyat = Student()
 Rubaiyat.setValue("Rubaiyat", 44, "CSE17", 3.00)
 Rubaiyat.displayValue()
+
+Rahim = Student()
+Rahim.setValue("Rahim", 45, "CSE17", 3.00)
+Rahim.displayValue()
