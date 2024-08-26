@@ -10,4 +10,4 @@ class Student:
 rahim = (1, 2)
 karim = (1, 2)
 
-print(rahim < karim)
+print(rahim == karim)
