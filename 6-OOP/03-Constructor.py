@@ -14,5 +14,10 @@ class Student:
 
 abir = Student("Abir", 43, 3.0)
 abir.displayValue()
+
 rubaiyat = Student("Rubaiyat", 44, 3.0)
 rubaiyat.displayValue()
+
+rahim=Student('Rahim',45,3.10)
+rahim.displayValue()
+

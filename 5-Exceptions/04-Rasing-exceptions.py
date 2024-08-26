@@ -1,3 +1,4 @@
+#Rising Exceptions
 def calculations(age):
     if age <= 0:
         raise ValueError("You can not divided by 0")

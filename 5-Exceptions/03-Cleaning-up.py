@@ -12,3 +12,8 @@ except ZeroDivisionError:
 
 finally:
     file.close()
+
+
+#This code is Wrong Code. In here have lots of error
+#This is just a dummy code.
+#Thanks
